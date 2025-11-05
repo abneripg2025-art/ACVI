@@ -6,7 +6,7 @@ EN: Subject about Analysis, Comunnication and Visualization of Information
 
 
 
-### \# scripts básicos
+# scripts básicos
 
 PT: Scripts básicos em Python
 
@@ -14,7 +14,7 @@ EN: Basic python scripts
 
 
 
-### \# wordclouds
+# wordclouds
 
 PT: Scripts para trabalhar com wordclouds
 
