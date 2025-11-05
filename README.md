@@ -1,22 +1,22 @@
 # ACVI
 
-# PT: Disciplina sobre Análise, Comunicação e Visualização da Informação
+PT: Disciplina sobre Análise, Comunicação e Visualização da Informação
 
-# EN: Subject about Analysis, Comunnication and Visualization of Information
+EN: Subject about Analysis, Comunnication and Visualization of Information
 
 
 
 # \# scripts básicos
 
-# PT: Scripts básicos em Python
+PT: Scripts básicos em Python
 
-# EN: Basic python scripts
+EN: Basic python scripts
 
 
 
-# \# wordclouds 
+# \# wordclouds
 
-# PT: Scripts para trabalhar com wordclouds
+PT: Scripts para trabalhar com wordclouds
 
-# EN: Python scripts for wordclouds
+EN: Python scripts for wordclouds
 
