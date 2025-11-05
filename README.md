@@ -20,3 +20,15 @@ PT: Scripts para trabalhar com wordclouds
 
 EN: Python scripts for wordclouds
 
+
+
+\## text2frequency.py
+
+
+
+\## text2word\_cloud.py
+
+
+
+\## text2word\_cloud\_frequency.py
+
