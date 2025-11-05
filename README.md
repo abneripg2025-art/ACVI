@@ -24,6 +24,8 @@ EN: Python scripts for wordclouds
 
 ## text2frequency.py
 
+!\[image not found](images/script1.png)
+
 
 
 ## text2word\_cloud.py
