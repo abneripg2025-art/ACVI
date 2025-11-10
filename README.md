@@ -39,8 +39,8 @@ EN: Choose an image as a mask (imagens\[image]_mask.png), the script takes the c
 
 ## add_two_images.py
 
-PT: Adicionar duas imagens `<path/img1.png>`, `<path/img2.png>`
+PT: Funde duas imagens `<path/img1.png>`, `<path/img2.png>`
 
-EN: Add two images `<path/img1.png>`, `<path/img2.png>`
+EN: Combine two images `<path/img1.png>`, `<path/img2.png>`
 
 ![image not found](images/add_two_images.png)
