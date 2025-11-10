@@ -33,5 +33,7 @@ EN: Python scripts for wordclouds
 ## text_image2_word_cloud.py
 PT: Escolhendo uma imagem como máscara ([image]_mask.png), tomando texto para essa imagem ([image].txt), o script permite ajustar o texto à imagem.
 
-EN: Choose an image as a mask ([image]_mask.png), the script takes the corresponding text ([image].txt) and inserts it in the image.
+EN: Choose an image as a mask (imagens\[image]_mask.png), the script takes the corresponding text (texts\[image].txt) and inserts it in the image.
+
+![image not found](images/text_image2_word_cloud.png)
 
