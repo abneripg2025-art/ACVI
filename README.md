@@ -43,3 +43,4 @@ PT: Adicionar duas imagens `<path/img1.png>`, `<path/img2.png>`
 
 EN: Add two images `<path/img1.png>`, `<path/img2.png>`
 
+![image not found](images/add_two_images.png)
