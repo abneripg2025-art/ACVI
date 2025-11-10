@@ -39,8 +39,14 @@ EN: Choose an image as a mask (imagens\[image]_mask.png), the script takes the c
 
 ## add_two_images.py
 
-PT: Funde duas imagens `<path/img1.png>`, `<path/img2.png>`
+PT: Junta duas imagens `<path/img1.png>`, `<path/img2.png>`
 
 EN: Combines two images `<path/img1.png>`, `<path/img2.png>`
 
 ![image not found](images/add_two_images.png)
+
+## generating_images.py
+
+PT: Gera copias da imagem selecionada um certo número de vezes.
+EN: Generates copies of the selected image a certain number of times.
+
