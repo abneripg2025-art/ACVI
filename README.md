@@ -37,3 +37,9 @@ EN: Choose an image as a mask (imagens\[image]_mask.png), the script takes the c
 
 ![image not found](images/text_image2_word_cloud.png)
 
+## add_two_images.py
+
+PT: Adicionar duas imagens `<path/img1.png>`, `<path/img2.png>`
+
+EN: Add two images `<path/img1.png>`, `<path/img2.png>`
+
