@@ -47,6 +47,9 @@ EN: Combines two images `<path/img1.png>`, `<path/img2.png>`
 
 ## generating_images.py
 
-PT: Gera copias da imagem selecionada um certo número de vezes.
-EN: Generates copies of the selected image a certain number of times.
+PT: Gera um determinado número de copias da imagem selecionadas. 
+EN: Copies the selected image a certain number of times.
+
+![image not found](images/generating_images.png)
+
 
